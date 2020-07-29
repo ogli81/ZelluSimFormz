@@ -1,0 +1,4 @@
+C:\Users\dozent\source\repos\ZelluSimFormz\obj\Debug\ZelluSimFormz.csprojAssemblyReference.cache
+C:\Users\dozent\source\repos\ZelluSimFormz\obj\Debug\ZelluSimFormz.Properties.Resources.resources
+C:\Users\dozent\source\repos\ZelluSimFormz\obj\Debug\ZelluSimFormz.csproj.GenerateResource.cache
+C:\Users\dozent\source\repos\ZelluSimFormz\obj\Debug\ZelluSimFormz.csproj.CoreCompileInputs.cache
